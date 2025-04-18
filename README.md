@@ -1,8 +1,5 @@
 # 📈 Stock Price Prediction using Facebook Prophet
 
-**Author**: Navroop Kaur  
-**Notebook**: `Navroop_Kaur_Copy_Using_FB_Prophet_to_predict_stocks.ipynb`
-
 ---
 
 ## 📌 Project Overview
